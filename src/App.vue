@@ -4,10 +4,7 @@
 
 <template>
   <!-- 一级路由出口组件 -->
-  <router-view></router-view>
-  <div class="test">
-    test scss
-  </div>
+  <RouterView />
 </template>
 
 <style scoped lang="scss">
